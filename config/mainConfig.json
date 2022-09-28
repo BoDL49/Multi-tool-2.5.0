@@ -1,0 +1,25 @@
+{
+    "mobileStatus": false,
+    "guildID": "",
+    "syncStatus": false,
+    "languageTool": "en",
+    "fullUserName": "",
+    "voice" : {
+        "autoVoice": false,
+        "channelID": "",
+        "selfDeaf": false,
+        "selfMute": false
+    },
+    "notice": {
+        "notice": false,
+        "newsMode": true,
+        "updateTool": false,
+        "checkUpdatePackage": false
+    },
+    "spam": {
+        "randomChannelSpam": false,
+        "channelSpam": "",
+        "spamMessage": false
+    },
+    "online247": false
+}
